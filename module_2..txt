@@ -1,0 +1,75 @@
+* What are the benefits of using CSS? 
+Ans. There are a number of benefits of CSS, including:
+•	1) Faster Page Speed. More code means slower page speed. ...
+•	2) Better User Experience. CSS not only makes web pages easy on the eye, it also allows for user-friendly formatting. ...
+•	3) Quicker Development Time. ...
+•	4) Easy Formatting Changes. ...
+•	5) Compatibility Across Devices.
+
+What are the disadvantages of CSS? 
+Ans. limited security, cross-browser issues, extra work for developers, 
+
+
+* What is the difference between CSS2 and CSS3?
+Ans.  Media queries in CSS3 extended the CSS2 media types idea: Instead of looking for a type of device, they look at the capability of the device.
+
+* Name a few CSS style components 
+Ans. At its most basic level, CSS consists of two components: Properties: These are human-readable identifiers that indicate which stylistic features you want to modify. For example, font-size , width , background-color . Values: Each property is assigned a value.
+
+
+
+* What do you understand by CSS opacity? 
+Ans.  Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.
+* How can the background color of an element be changed? 
+Ans.  using inline CSS, which appears in the HTML code itself. To use inline CSS, find the opening tag of the element you want to target, then add the attribute style=“background-color: yourcolorhere;”
+
+* How can image repetition of the backup be controlled? 
+Ans.  you can use the background-repeat property in Cascading Style Sheets (CSS)
+
+
+* What is the use of the background-position property? 
+Ans. is used to set the starting position of a background image within an element: 
+* Which property controls the image scroll in the background?
+Ans. The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed.
+ • Why should background and color be used as separate properties?
+Ans.  they serve different purposes and allow for more flexibility in styling: 
+ • How to center block elements using CSS1? 
+Ans. We need to specify the margin from left and right such that it looks centered.
+
+* How to maintain the CSS specifications?
+Ans. Another piece of advice for keeping low specificity is to avoid IDs and use classes.
+
+ • What are the ways to integrate CSS as a web page? 
+Ans. external, internal, and inline
+
+
+* What is embedded style sheets? 
+Ans. An embedded style sheet is a way to apply style information to an HTML document using CSS (Cascading Style Sheets) code
+
+
+
+* What are the external style sheets?
+Ans. An external style sheet is a separate file that contains Cascading Style Sheet (CSS) definitions for a website and is used to apply styles to multiple pages.
+ • What are the advantages and disadvantages of using external style sheets?
+Ans. External style sheets have the following advantages over internal and inline styles:
+
+ • What is the meaning of the CSS selector?
+ Ans.  It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the 
+
+to them.
+* What are the media types allowed by CSS?
+Ans.
+	
+screen	Devices with screens, such as desktops, laptops, phones, and more
+print	Styles are applied when the document is printed
+speech	For devices used in speech synthesis and screen reading
+projection	
+
+
+
+
+ • What is the rule set? 
+Ans.  a collection of rules that are grouped together
+
+* Create Layouts
+Ans.  the process of arranging visual and textual elements on-screen or on-paper in order to grab a reader's attention and communicate information in a visually appealing way  the process of arranging visual and textual elements on-screen or on-paper in order to grab a reader's attention and communicate information in a visually appealing way
